@@ -1,0 +1,80 @@
+{
+    "penjual": "r",
+    "total": 44000,
+    "pembeli": [
+        {
+            "nomor": 1,
+            "nama": "q",
+            "kuah": null,
+            "rasa": null,
+            "level_mie": "3",
+            "level_seblak": null
+        },
+        {
+            "nomor": 2,
+            "nama": "tt",
+            "kuah": null,
+            "rasa": null,
+            "level_mie": "4",
+            "level_seblak": null
+        },
+        {
+            "nomor": 3,
+            "nama": "2",
+            "kuah": "Berkuah",
+            "rasa": "Manis",
+            "level_mie": null,
+            "level_seblak": "5"
+        }
+    ],
+    "items": [
+        {
+            "pembeli_ke": 1,
+            "nama_pembeli": "q",
+            "nama_item": "Mie Jebew Original",
+            "kategori": "Mie Jebew",
+            "jumlah": 1,
+            "subtotal": 10000
+        },
+        {
+            "pembeli_ke": 1,
+            "nama_pembeli": "q",
+            "nama_item": "Toping Sosis",
+            "kategori": "Mie Jebew",
+            "jumlah": 3,
+            "subtotal": 6000
+        },
+        {
+            "pembeli_ke": 2,
+            "nama_pembeli": "tt",
+            "nama_item": "Mie Jebew Original",
+            "kategori": "Mie Jebew",
+            "jumlah": 1,
+            "subtotal": 10000
+        },
+        {
+            "pembeli_ke": 2,
+            "nama_pembeli": "tt",
+            "nama_item": "Toping Pentol",
+            "kategori": "Mie Jebew",
+            "jumlah": 4,
+            "subtotal": 4000
+        },
+        {
+            "pembeli_ke": 3,
+            "nama_pembeli": "2",
+            "nama_item": "Pentol",
+            "kategori": "Seblak",
+            "jumlah": 4,
+            "subtotal": 4000
+        },
+        {
+            "pembeli_ke": 3,
+            "nama_pembeli": "2",
+            "nama_item": "Sosis",
+            "kategori": "Seblak",
+            "jumlah": 5,
+            "subtotal": 10000
+        }
+    ]
+}
